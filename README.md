@@ -54,3 +54,6 @@ SA_PASSWORD=Password123(!)Strong
 
 ## License
 This project is released under the GNU GPL-3.0 license. Check out the [LICENSE](LICENSE) file for more information.
+
+## Waring 
+sudo chown -R 10001:10001 ./drive
